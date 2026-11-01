@@ -8,7 +8,7 @@ func main() {
 
 	fmt.Println(add)
 	fmt.Println(min)
-	fmt.Println("SUCCESS 2")
+	fmt.Println("SUCCESS 3")
 }
 
 func AddNumber(a, b int) int {
